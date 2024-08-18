@@ -4,6 +4,6 @@ The published data in this repository includes the total number of UC Santa Barb
 
 - ``courseGrades.csv`` The Daily Nexus obtained this data from the Office of the Registrar via multiple Public Records Act Requests. The file is made up of all the original data acquired from the Registrar's office combined, and it contains UCSB course grade data from Fall 2009 to Spring 2024 in wide-form with statistics calculuated by the Nexus. Data includes quarter, course level, course number, instructor, average GPA for a course, and the total number of students who chose each grading option. Columns with "p" after a letter refer to plus grades and columns with "m" after a letter refer to minus grades. "S" represents satisfactory grades and "su" repreesents unsatisfactory grades.
 - ``ges_long_form.csv`` The Daily Nexus obtained this data from the College of Letters and Science's [degree requirements website](https://duels.ucsb.edu/advising/planning/degree). The file is made up of all the 2023-24 courses that apply to each general education and special subject requirement, and the data in this file is in long-form. 
-- ``ges.csv`` This file contains the data from ``full_grades.csv`` formatted in wide-form by the Nexus. "AHI" represents the american history and institutions requirement.
+- ``ges.csv`` This file contains the data from ``ges_long_form.csv`` formatted in wide-form by the Nexus. "AHI" represents the american history and institutions requirement.
 
 Please direct any questions or suggestions to [data@dailynexus.com](mailto:data@dailynexus.com).
