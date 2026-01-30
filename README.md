@@ -10,8 +10,8 @@ The published data in this repository includes the total number of UC Santa Barb
     1 row = 1 course instance
     **Columns:**
     - `course`: Course Code (e.g., MATH 3A)
-    - `instructor`: Instructor last name, first initial, and middle initial if applicable (e.g., DEAN C W).\n",
-    - `quarter`: Academic Quarter (Fall, Winter, Summer, Spring).\n",
+    - `instructor`: Instructor last name, first initial, and middle initial if applicable (e.g., DEAN C W)
+    - `quarter`: Academic Quarter (Fall, Winter, Summer, Spring)
     - `year`: Academic Year (e.g., 2020).\n",
     - `A`: Number of A grades (NOT including + and -)
     - `B`: Number of B grades (NOT including + and -)
