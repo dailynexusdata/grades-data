@@ -7,7 +7,9 @@ The published data in this repository includes the total number of UC Santa Barb
 - ``ges.csv`` This file contains the data from ``ges_long_form.csv`` formatted in wide-form by the Nexus. "AHI" represents the American History and Institutions requirement.
 
 **About the Data**
+
 1 row = 1 course instance
+
 **Columns:**
 - `course`: Course Code (e.g., MATH 3A)
 - `instructor`: Instructor last name, first initial, and middle initial if applicable (e.g., DEAN C W)
